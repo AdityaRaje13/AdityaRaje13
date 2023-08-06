@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aditya Raje</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
+<img alt="Coding Image" width="400px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2_vzstFaTlbbKISst39LRF&ust=1691428476181000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIDN6arEyIADFQAAAAAdAAAAABAQ"></img>
+
 <p align="left"> <a href="https://twitter.com/adityaraje_1304" target="blank"><img src="https://img.shields.io/twitter/follow/adityaraje_1304?logo=twitter&style=for-the-badge" alt="adityaraje_1304" /></a> </p>
 
 - 🌱 I’m currently learning **MERN stack Development**
