@@ -1,4 +1,4 @@
-<img src="https://wallpaperaccess.com/full/7167568.jpg" align="top" width="100%" height="10%" alt="Image"></img>
+<!-- <img src="https://wallpaperaccess.com/full/7167568.jpg" align="top" width="100%" height="10%" alt="Image"></img> -->
 <h1 align="center">Hi 👋, I'm Aditya Raje</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
