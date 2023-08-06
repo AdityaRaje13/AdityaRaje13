@@ -1,5 +1,4 @@
-<img src="![image](https://github.com/AdityaRaje13/AdityaRaje13/assets/138199963/62bafbbd-4644-4e93-a090-c6a404f1dc93)
-" align="top" width="100%" alt="Image"></img>
+<img src="https://wallpaperaccess.com/full/7167568.jpg" align="top" width="100%" alt="Image"></img>
 <h1 align="center">Hi 👋, I'm Aditya Raje</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
